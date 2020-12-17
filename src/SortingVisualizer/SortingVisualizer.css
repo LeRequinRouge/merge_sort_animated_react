@@ -1,0 +1,22 @@
+.array-container {
+    position: absolute;
+    left: 25px;
+}
+
+.array-bar {
+    width: 2px;
+    background-color: yellow;
+    display: inline-block;
+    margin: 0 1px;
+}
+
+.button {
+    background-color: yellow;
+    border: 2px solid white;
+    color: black;
+    padding: 15 px 32 px;
+    text-align: center;
+    text-decoration: non;
+    display: inline-block;
+    font-size: 16px;
+}
